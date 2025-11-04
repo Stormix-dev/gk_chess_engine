@@ -3,6 +3,7 @@
 Un motore di scacchi completo con interfaccia grafica, sviluppato in Rust utilizzando `egui` ed `eframe`.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
 
 ## ✨ Caratteristiche
 
