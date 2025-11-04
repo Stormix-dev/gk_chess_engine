@@ -1,0 +1,8 @@
+[package]
+name = "gk_chess_engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.24"  # egui for chess graphic
+winapi = { version = "0.3", features = ["winuser", "windef", "wingdi"] }
